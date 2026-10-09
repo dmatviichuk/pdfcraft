@@ -151,7 +151,7 @@ licence = "MIT OR Apache-2.0"
 licence_file = "LICENSE-MIT"
 kind = "translation"
 usage = "Ukrainian UI strings, compiled in by crates/ui-egui/src/i18n/mod.rs"
-sha256 = "6ce25dfceb0ffab03b33bf6f503e39b48fb81f31184a019acf7b56feec8f348d"
+sha256 = "6939906a84a2b5b7f5d2ca36c454ed1787751232d435daa30cc62ededbe7c165"
 
 [[asset]]
 path = "assets/icons/accessibility.svg"
