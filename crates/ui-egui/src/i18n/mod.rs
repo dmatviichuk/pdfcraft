@@ -1678,6 +1678,8 @@ mod tests {
             "PDF/A…",
             "Microsoft Word (.docx)",
             "PostScript / EPS",
+            // Key-cap names, printed in English on Ukrainian keyboards.
+            "Home / End",
             "JavaScript",
             "ZIP",
             "{n} {kind}",
